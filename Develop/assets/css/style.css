@@ -81,7 +81,7 @@ p {
     margin-left: 25px;
 }
 
-/* MAIN: SERVICES */ 
+/* MAIN: SERVICE */ 
 
 main {
     width: 75%;
@@ -89,7 +89,7 @@ main {
     margin-left: 20px;
 }
 
-.services {
+.service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -98,11 +98,11 @@ main {
     color: #ffffff;
 }
 
-.services img {
+.service img {
     max-height: 200px;
 }
 
-.services h2 {
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
