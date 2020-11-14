@@ -1,12 +1,18 @@
+/* GLOBAL RESET */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* BODY */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* HEADER */ 
 
 header {
     padding: 20px;
@@ -41,6 +47,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* TEXT */ 
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +58,8 @@ p {
     font-size: 16px;
 }
 
+/* BACKGROUND IMAGE DIV */ 
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +68,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* FLOATS */ 
 
 .float-left {
     float: left;
@@ -69,11 +81,33 @@ p {
     margin-left: 25px;
 }
 
+/* MAIN: SERVICES */ 
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+.services {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.services img {
+    max-height: 200px;
+}
+
+.services h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* ASIDE: BENEFIT */
 
 aside {
     margin-right: 20px;
@@ -102,23 +136,7 @@ aside {
     max-width: 150px;
 }
 
-.services {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.services img {
-    max-height: 200px;
-}
-
-.services h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* FOOTER */
 
 footer {
     padding: 30px;
