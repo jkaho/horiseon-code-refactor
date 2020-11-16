@@ -18,6 +18,6 @@ The improved source code allows more people, regardless of personal limitations,
 
 Further, HTML elements were also modified to improve the web application’s visibility in search engine results, which is particularly important for a business such as Horiseon, which offers search engine optimization services. 
 
-## Links
+## Link
 
 [Link to deployed application](https://jkaho.github.io/week1-homework/Develop/)
