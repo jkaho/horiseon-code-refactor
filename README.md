@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the refactored version of the source code of a web application that belongs to our client, Horiseon, a marketing agency. 
+This repository contains the refactored version of the source code of a web application that belongs to my client, Horiseon, a marketing agency. 
 
 ## Screenshot 
 
@@ -20,4 +20,4 @@ Further, HTML elements were also modified to improve the web application’s vis
 
 ## Links
 
-Link to deployed application: [Link to deployed application](https://jkaho.github.io/week1-homework/Develop/)
+[Link to deployed application](https://jkaho.github.io/week1-homework/Develop/)
