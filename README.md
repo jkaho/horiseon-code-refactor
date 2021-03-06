@@ -1,4 +1,4 @@
-# week1-homework: Code Refactor
+# Horiseon Code Refactor
 
 ## Description
 
@@ -8,7 +8,7 @@ This repository contains the refactored version of the source code of a web appl
 
 This is a screenshot of the deployed web application. 
 
-![Horiseon web application screenshot](./screenshot.jpg)
+![Horiseon web application screenshot](assets/images/screenshot.jpg)
 
 ## Motivations
 
