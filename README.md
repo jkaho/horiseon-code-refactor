@@ -20,4 +20,4 @@ Further, HTML elements were also modified to improve the web application’s vis
 
 ## Link
 
-[Link to deployed application](https://jkaho.github.io/week1-homework/Develop/)
+[Link to deployed application](https://jkaho.github.io/horiseon-code-refactor/)
