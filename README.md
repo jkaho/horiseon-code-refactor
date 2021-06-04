@@ -4,6 +4,10 @@
 
 This repository contains the refactored version of the source code of a web application that belongs to my client, Horiseon, a marketing agency. 
 
+## Technologies Used
+
+- Semantic HTML
+
 ## Screenshot 
 
 This is a screenshot of the deployed web application. 
